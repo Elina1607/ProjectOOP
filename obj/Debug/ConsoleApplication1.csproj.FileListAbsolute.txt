@@ -1,0 +1,9 @@
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Элька\RiderProjects\ProjectOOP\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

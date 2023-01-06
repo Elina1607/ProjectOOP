@@ -1,0 +1,37 @@
+{
+  "_gameAccounts": [
+    {
+      "_currentRating": 1,
+      "Matches": [
+        {
+          "_gameId": 1,
+          "_opponentName": "БОТ",
+          "_result": 2,
+          "_rating": 9,
+          "_side": 2,
+          "_gameField": [
+            1,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            2
+          ]
+        }
+      ],
+      "UserName": "Elya",
+      "CurrentRating": 1
+    }
+  ],
+  "_matchHistory": [
+    {
+      "_player1Name": "Elya",
+      "_player2Name": "БОТ",
+      "_winnerName": "",
+      "_rating": 9
+    }
+  ]
+}
